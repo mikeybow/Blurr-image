@@ -28,4 +28,6 @@ body {
 .loading-text{
     position: absolute;
     font-size: 30px;
+    transform: scale(0.9);
+    cursor: default;
 }
